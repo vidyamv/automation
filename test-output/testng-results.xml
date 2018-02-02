@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[The title is matchingORBITZ.com – Best Travel Deals]]>
+    </line>
+  </reporter-output>
+  <suite name="Suite" duration-ms="28843" started-at="2018-02-02T05:32:17Z" finished-at="2018-02-02T05:32:46Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="28843" started-at="2018-02-02T05:32:17Z" finished-at="2018-02-02T05:32:46Z">
+      <class name="com.QEonboardingpractice.tests.FlightbookingTest">
+        <test-method status="PASS" signature="precondtion()[pri:0, instance:com.QEonboardingpractice.tests.FlightbookingTest@6ee52dcd]" name="precondtion" is-config="true" duration-ms="15280" started-at="2018-02-02T11:02:17Z" finished-at="2018-02-02T11:02:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- precondtion -->
+        <test-method status="PASS" signature="testFlightbooking()[pri:0, instance:com.QEonboardingpractice.tests.FlightbookingTest@6ee52dcd]" name="testFlightbooking" duration-ms="13050" started-at="2018-02-02T11:02:33Z" finished-at="2018-02-02T11:02:46Z">
+          <reporter-output>
+            <line>
+              <![CDATA[The title is matchingORBITZ.com – Best Travel Deals]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testFlightbooking -->
+        <test-method status="PASS" signature="postcondtion()[pri:0, instance:com.QEonboardingpractice.tests.FlightbookingTest@6ee52dcd]" name="postcondtion" is-config="true" duration-ms="483" started-at="2018-02-02T11:02:46Z" finished-at="2018-02-02T11:02:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postcondtion -->
+      </class> <!-- com.QEonboardingpractice.tests.FlightbookingTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
